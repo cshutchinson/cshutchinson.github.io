@@ -8,7 +8,7 @@ import About from '../modules/About';
 import Repos from '../modules/Repos';
 
 const history = useRouterHistory(createHistory)({
-    baseName: '/sandbox/dgc-tooling-rita/'
+    basename: '/sandbox/dgc-tooling-rita'
 });
 
 render((
